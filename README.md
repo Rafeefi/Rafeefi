@@ -1,7 +1,7 @@
 # Rafeef
 
 <h1 align="center">Hello World👋, I'm Rafeef Alowayed</h1>
-<h3 align="center">I am a Software Engineering student in King Saud University</h3>
+<h3 align="center">I am a Software Engineer</h3>
 
 - 📫 How to reach me **RafeefAlowayed@gmail.com**
 
